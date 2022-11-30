@@ -2,7 +2,8 @@ from sklearn.base import BaseEstimator,TransformerMixin
 import numpy as np
 from enum import Enum
 from pydantic import BaseModel
-from tensorflow.python.keras import backend as K
+#from tensorflow.python.keras import backend as K
+from keras import backend as K
 import tensorflow as tf
 from matplotlib import colors
 
