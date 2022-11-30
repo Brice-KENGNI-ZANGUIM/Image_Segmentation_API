@@ -91,3 +91,9 @@ st.image( mask)
 ##########################################################################
 st.write("- ## Masque prédit")
 st.image( mask_pred )
+
+#############################################################################
+###########           URL de déployement sur Streamlit            ###########
+#############################################################################
+
+# https://brice-kengni-zanguim-image-segmentation-a-streamlit-main-budclr.streamlit.app/
